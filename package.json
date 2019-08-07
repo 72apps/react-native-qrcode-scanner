@@ -29,7 +29,7 @@
   "dependencies": {
     "opencollective-postinstall": "^2.0.2",
     "prop-types": "^15.5.10",
-    "react-native-permissions": "^1.1.1",
+    "react-native-permissions": "1.1.1",
     "opencollective": "^1.0.3"
   },
   "devDependencies": {
@@ -38,9 +38,6 @@
     "husky": "^0.14.3",
     "lint-staged": "^7.1.0",
     "prettier": "^1.12.1"
-  },
-  "peerDependencies": {
-    "react-native-camera": "^1.0.2"
   },
   "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
   "lint-staged": {
